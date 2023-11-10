@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Bzx's GitHub stats](https://github-readme-stats.vercel.app/api?username=baizx98)](https://github.com/baizx98/github-readme-stats)
 <!--
 **Baizx98/Baizx98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
