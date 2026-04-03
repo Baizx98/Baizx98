@@ -8,6 +8,7 @@
 
 <a href="https://baizx.cool"><img src="https://img.shields.io/badge/Website-baizx.cool-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="mailto:baizx98@foxmail.com"><img src="https://img.shields.io/badge/Email-Contact-14532d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.researchgate.net/profile/Zhuoxin-Bai?ev=hdr_xprf"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
 <img src="https://img.shields.io/badge/Research-LLM%20Inference-1d4ed8?style=for-the-badge" alt="Research" />
 <img src="https://img.shields.io/badge/Focus-KV%20Cache%20Systems-7c3aed?style=for-the-badge" alt="Focus" />
 
